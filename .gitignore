@@ -2,3 +2,16 @@
 # env files
 .env
 server/.env
+node_modules
+
+# env files
+.env
+.env.local
+server/.env
+server/.env.local
+
+# env files
+.env
+.env.local
+server/.env
+server/.env.local
